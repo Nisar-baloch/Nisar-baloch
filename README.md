@@ -21,13 +21,13 @@
 ```js
 const nisar = {
     name:      "Nisar Ahmed",
-    location:  "Quetta, Pakistan 🇵🇰",
+    location:  "Quetta",
     role:      "Co-Founder @ Inbyo Tech",
     education: "BSCS @ University of Balochistan",
     training:  "Web Development @ SMIT",
 
-    languages: ["JavaScript", "C#", "C", "HTML", "CSS"],
-    frontend:  ["React", "HTML5", "CSS3", "Tailwind CSS"],
+    languages: ["Python", "Typescript", "JavaScript", "HTML", "CSS"],
+    frontend:  ["React","Next", "HTML5", "CSS3", ],
     backend:   ["Node.js", "Django", "REST APIs"],
     tools:     ["Git", "GitHub", "VS Code", "Linux"],
 
@@ -57,8 +57,6 @@ console.log("Let's build something great together! 🚀");
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Tools & Platforms
@@ -69,7 +67,7 @@ console.log("Let's build something great together! 🚀");
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -129,7 +127,7 @@ console.log("Let's build something great together! 🚀");
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisarahmed)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisarahmed)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nisar-baloch)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisarahmed@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nisarahmed.dev)
 
